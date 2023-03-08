@@ -9,5 +9,4 @@ I am a full stack dev mainly using Ruby on Rails and React.js as my main stack. 
 
 
 Tools:
-![image](https://user-images.githubusercontent.com/98946076/223720500-1392e6db-0448-4002-b754-8451c26e4ae2.png)
-
+![image](https://user-images.githubusercontent.com/98946076/223720706-a1c49bfa-89cb-4cbc-a5eb-c431a3c6227f.png)
