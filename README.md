@@ -7,4 +7,6 @@ Currently working @NesloTechnologies and soaking up as much technical and busine
 
 I am a full stack dev mainly using Ruby on Rails and React.js as my main stack. Im also learning everything in the software lifecycle, git, API's and everthing inbetween!
 
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=dark&hide=issues&include_all_commits=true)
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=dark&hide=issues)
+
+![Connor's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Hughes-Nes&theme=tokyonight&hide_border=true)
