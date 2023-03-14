@@ -10,3 +10,5 @@ I am a full stack dev mainly using Ruby on Rails and React.js as my main stack. 
 ![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 ![Connor's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Hughes-Nes&theme=tokyonight&hide_border=true)
+[![Connor's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Hughes-Nes)](https://github.com/anuraghazra/github-readme-stats)
+
