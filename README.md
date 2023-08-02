@@ -19,6 +19,6 @@ I am a full stack dev mainly using Ruby on Rails and React.js as my main stack. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Hughes-Nes&layout=compact&langs_count=6&theme=tokyonight" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Connor-Hughes-Nes/theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Connor-Hughes-Nes)](https://git.io/streak-stats)
 
 
