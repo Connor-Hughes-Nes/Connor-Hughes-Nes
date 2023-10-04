@@ -7,10 +7,7 @@ Currently working @NesloTechnologies and soaking up as much technical and busine
 
 I am a full stack dev mainly using Ruby on Rails and React.js as my main stack. Im also learning everything in the software lifecycle, git, API's and everthing inbetween!
 
-<!-- ![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
-
-[![Connor's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Hughes-Nes&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=nightfox&border_radius=4.6&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Connor-Hughes-Nes&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
