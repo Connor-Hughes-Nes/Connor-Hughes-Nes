@@ -2,10 +2,11 @@
   
     Tech enthusiast | Game & Software engineering | Combat Sports |
 
-Currently working @NesloTechnologies and soaking up as much technical and business skills as possible.
+Currently working @NesloTechnologies and soaking up as much technical and business knowledge as possible.
 
 
-I am a full stack dev mainly using Ruby on Rails and React.js as my main stack. Im also learning everything in the software lifecycle, git, API's and everthing inbetween!
+I am a full stack dev mainly using Ruby on Rails and React.js as my main stack.
+Currently learning: `Anglular` and `Java`.
 
 [![Connor's Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
