@@ -10,7 +10,7 @@ Currently learning: `Anglular` and `Java`.
 
 [![Connor's Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,blender,cs,css,docker,figma,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,stackoverflow,tailwind,unity)](https://skillicons.dev)
 
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
