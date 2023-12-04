@@ -5,8 +5,9 @@
 Currently working @NesloTechnologies and soaking up as much technical and business skills as possible.
 
 
-I am a full stack dev mostly using Ruby on Rails and React.js.
+I am a full stack dev mainly using Ruby on Rails and React.js.
 Currently learning: `Anglular` and `Java`.
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,blender,cs,css,docker,figma,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,stackoverflow,tailwind,unity)](https://skillicons.dev)
