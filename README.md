@@ -8,6 +8,7 @@ Currently working @NesloTechnologies and soaking up as much technical and busine
 I am a full stack dev mainly using Ruby on Rails and React.js as my main stack.
 Currently learning: `Anglular` and `Java`.
 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,blender,cs,css,docker,figma,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,stackoverflow,tailwind,unity)](https://skillicons.dev)
 
 [![Connor's Streak](https://streak-stats.demolab.com?user=Connor-Hughes-Nes&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
