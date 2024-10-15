@@ -8,8 +8,8 @@ Currently working @NesloTechnologies and soaking up as much technical and busine
 I am a full stack dev mainly using Ruby on Rails and React.js.
 Currently learning: `Anglular` and `Java`.
 
+[![committers.top badge](https://user-badge.committers.top/south_africa/Connor-Hughes-Nes.svg)](https://committers.top/south_africa.html)
 
-https://committers.top/south_africa_private#Connor-Hughes-Nes
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity)](https://skillicons.dev)
 
