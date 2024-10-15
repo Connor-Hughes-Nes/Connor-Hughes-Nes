@@ -9,6 +9,7 @@ I am a full stack dev mainly using Ruby on Rails and React.js.
 Currently learning: `Anglular` and `Java`.
 
 
+https://committers.top/south_africa_private#Connor-Hughes-Nes
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity)](https://skillicons.dev)
 
